@@ -1,0 +1,13 @@
+{
+  "name": "messanger-keepalive",
+  "version": "1.0.0",
+  "description": "Keep-alive service for Messanger backend",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
